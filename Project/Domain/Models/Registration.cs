@@ -19,7 +19,7 @@ public class Registration
         PurchasePaymentReturnRecord = new HashSet<PurchasePaymentReturnRecord>();
     }
 
-    public int RegistrationId { get; set; }
+    public int Id { get; set; }
     public string UserName { get; set; }
     public bool? Validation { get; set; }
     public string Type { get; set; }
@@ -35,7 +35,6 @@ public class Registration
     public DateTime CreateDate { get; set; }
     public string Ps { get; set; }
     public decimal Balance { get; set; }
-
     public virtual ICollection<Expense> Expense { get; set; }
     public virtual ICollection<PageLinkAssign> PageLinkAssign { get; set; }
     public virtual ICollection<Purchase> Purchase { get; set; }

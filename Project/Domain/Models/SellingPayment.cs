@@ -7,7 +7,7 @@ public class SellingPayment
         ServicePaymentList = new HashSet<ServicePaymentList>();
     }
 
-    public int SellingPaymentId { get; set; }
+    public int Id { get; set; }
     public int RegistrationId { get; set; }
     public int CustomerId { get; set; }
     public int ReceiptSn { get; set; }

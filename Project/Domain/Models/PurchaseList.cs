@@ -5,7 +5,7 @@ public class PurchaseList
     {
         ProductStock = new HashSet<ProductStock>();
     }
-    public int PurchaseListId { get; set; }
+    public int Id { get; set; }
     public int PurchaseId { get; set; }
     public int ProductId { get; set; }
     public string Description { get; set; }

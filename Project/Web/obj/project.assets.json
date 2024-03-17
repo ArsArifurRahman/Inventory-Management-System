@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Web\\obj\\",
+      "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

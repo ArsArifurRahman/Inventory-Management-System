@@ -6,7 +6,7 @@ public partial class ServiceDevice
         ServiceList = new HashSet<ServiceList>();
     }
 
-    public int ServiceDeviceId { get; set; }
+    public int Id { get; set; }
     public int ProductCatalogId { get; set; }
     public int CustomerId { get; set; }
     public string DeviceCode { get; set; }

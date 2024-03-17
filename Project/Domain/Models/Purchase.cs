@@ -9,7 +9,7 @@ public partial class Purchase
         PurchasePaymentReturnRecord = new HashSet<PurchasePaymentReturnRecord>();
     }
 
-    public int PurchaseId { get; set; }
+    public int Id { get; set; }
     public int RegistrationId { get; set; }
     public int VendorId { get; set; }
     public int PurchaseSn { get; set; }

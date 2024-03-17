@@ -6,7 +6,7 @@ public partial class PageLinkCategory
         PageLink = new HashSet<PageLink>();
     }
 
-    public int LinkCategoryId { get; set; }
+    public int Id { get; set; }
     public string Category { get; set; }
     public string IconClass { get; set; }
     public int? Sn { get; set; }

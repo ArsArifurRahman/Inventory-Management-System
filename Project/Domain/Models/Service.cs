@@ -7,7 +7,7 @@ public partial class Service
         ServicePaymentList = new HashSet<ServicePaymentList>();
     }
 
-    public int ServiceId { get; set; }
+    public int Id { get; set; }
     public int RegistrationId { get; set; }
     public int CustomerId { get; set; }
     public int ServiceSn { get; set; }

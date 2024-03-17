@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public partial class PurchasePaymentList
 {
-    public int PurchasePaymentListId { get; set; }
+    public int Id { get; set; }
     public int PurchasePaymentId { get; set; }
     public int PurchaseId { get; set; }
     public decimal PurchasePaidAmount { get; set; }

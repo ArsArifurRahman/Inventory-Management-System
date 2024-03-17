@@ -7,7 +7,7 @@ public partial class Vendor
         PurchasePayment = new HashSet<PurchasePayment>();
     }
 
-    public int VendorId { get; set; }
+    public int Id { get; set; }
     public string VendorCompanyName { get; set; }
     public string VendorName { get; set; }
     public string VendorAddress { get; set; }

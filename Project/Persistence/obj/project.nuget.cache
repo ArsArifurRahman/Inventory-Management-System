@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZabOFQ7zEYxy4yf3yO+RLII3YMk5ga61/JSQB7szntBYdYnqMNBkc2SkJPsaLLDuuUwrNi9A5/0Jh3hkoCSalA==",
+  "dgSpecHash": "zKS63rI082Pl7b1asK19p4z/kIqal5VOmAcsljoL0iWpwGPVD3OtvOFUl+pxTaIjWqfV7So1KGa86Kyoe7f/hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arsns\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\arsns\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

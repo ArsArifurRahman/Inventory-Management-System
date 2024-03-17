@@ -3,7 +3,7 @@
 namespace Domain.Models;
 public class ProductLog
 {
-    public int ProductLogId { get; set; }
+    public int Id { get; set; }
     public ProductStock ProductStock { get; set; }
     public int ProductStockId { get; set; }
     public string Details { get; set; }

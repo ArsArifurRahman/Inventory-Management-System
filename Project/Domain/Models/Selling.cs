@@ -13,7 +13,7 @@ public class Selling
         SellingPaymentReturnRecord = new HashSet<SellingPaymentReturnRecord>();
     }
 
-    public int SellingId { get; set; }
+    public int Id { get; set; }
     public int RegistrationId { get; set; }
     public int CustomerId { get; set; }
     public int SellingSn { get; set; }
@@ -28,7 +28,6 @@ public class Selling
     public DateTime? LastUpdateDate { get; set; }
     public DateTime InsertDate { get; set; }
     public DateTime? PromisedPaymentDate { get; set; }
-    public string SellingNotes { get; set; }
     public decimal ServiceCharge { get; set; }
     public decimal ServiceCost { get; set; }
     public string ServiceChargeDescription { get; set; }
@@ -44,6 +43,7 @@ public class Selling
     public decimal SellingNetProfit { get; set; }
     //([SellingNetProfit]+[ServiceProfit]) - [SellingDiscountAmount]
     public decimal GrandProfit { get; set; }
+
     public virtual Customer Customer { get; set; }
     public virtual Registration Registration { get; set; }
     public virtual ICollection<SellingAdjustment> SellingAdjustment { get; set; }

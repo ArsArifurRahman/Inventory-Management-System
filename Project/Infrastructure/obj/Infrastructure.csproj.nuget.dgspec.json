@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arsns\\Desktop\\Work\\Project\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arsns\\Desktop\\Work\\Project\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

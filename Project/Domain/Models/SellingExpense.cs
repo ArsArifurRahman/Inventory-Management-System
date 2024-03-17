@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public class SellingExpense
 {
-    public int SellingExpenseId { get; set; }
+    public int Id { get; set; }
     public int SellingId { get; set; }
     public Selling Selling { get; set; }
     public decimal Expense { get; set; }

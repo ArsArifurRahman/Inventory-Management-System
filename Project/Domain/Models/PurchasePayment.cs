@@ -6,7 +6,7 @@ public partial class PurchasePayment
         PurchasePaymentList = new HashSet<PurchasePaymentList>();
     }
 
-    public int PurchasePaymentId { get; set; }
+    public int Id { get; set; }
     public int RegistrationId { get; set; }
     public int VendorId { get; set; }
     public int ReceiptSn { get; set; }

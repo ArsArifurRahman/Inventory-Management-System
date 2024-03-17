@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public class Warranty
 {
-    public int WarrantyId { get; set; }
+    public int Id { get; set; }
     public int SellingId { get; set; }
     public int ProductStockId { get; set; }
     public int? ChangedProductCatalogId { get; set; }

@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public partial class Institution
 {
-    public int InstitutionId { get; set; }
+    public int Id { get; set; }
     public int VoucherCountdown { get; set; }
     public string InstitutionName { get; set; }
     public string DialogTitle { get; set; }
@@ -17,6 +17,7 @@ public partial class Institution
     public byte[] InstitutionLogo { get; set; }
     public DateTime InsertDate { get; set; }
     public int? DefaultAccountId { get; set; }
+    public int AccountId { get; set; }
     public Account Account { get; set; }
     public decimal Capital { get; set; }
 }

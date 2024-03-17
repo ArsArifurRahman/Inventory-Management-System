@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public class SellingPromiseDateMiss
 {
-    public int SellingPromiseDateMissId { get; set; }
+    public int Id { get; set; }
     public int RegistrationId { get; set; }
     public int SellingId { get; set; }
     public DateTime MissDate { get; set; }

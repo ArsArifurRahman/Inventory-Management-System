@@ -1,16 +1,7 @@
 ﻿namespace Domain.Models;
 public class Customer
 {
-    public Customer()
-    {
-        Selling = new HashSet<Selling>();
-        SellingPayment = new HashSet<SellingPayment>();
-        Service = new HashSet<Service>();
-        ServiceDevice = new HashSet<ServiceDevice>();
-        ExpenseTransportation = new HashSet<ExpenseTransportation>();
-    }
-
-    public int CustomerId { get; set; }
+    public int Id { get; set; }
     public string OrganizationName { get; set; }
     public string CustomerName { get; set; }
     public string Description { get; set; }

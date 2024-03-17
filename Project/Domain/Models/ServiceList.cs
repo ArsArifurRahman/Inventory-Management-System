@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public partial class ServiceList
 {
-    public int ServiceListId { get; set; }
+    public int Id { get; set; }
     public int ServiceId { get; set; }
     public int ServiceDeviceId { get; set; }
     public decimal ServiceCharge { get; set; }

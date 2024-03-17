@@ -2925,11 +2925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\arsns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arsns\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2946,8 +2946,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\arsns\\Desktop\\Work\\Project\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Domain\\Domain.csproj"
+            "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Domain\\Domain.csproj"
             }
           }
         }
@@ -2988,7 +2988,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

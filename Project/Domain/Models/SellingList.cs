@@ -6,7 +6,7 @@ public partial class SellingList
         ProductStock = new HashSet<ProductStock>();
     }
 
-    public int SellingListId { get; set; }
+    public int Id { get; set; }
     public int SellingId { get; set; }
     public int ProductId { get; set; }
     public decimal SellingPrice { get; set; }

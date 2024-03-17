@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kr8EOSJgRBGYtXr74LqgYmB8c7WbBbtf7IOy18YEw5eVsebB/ZEQwmgJv3CMLSAymwgnr3t2m1kuWLm+LrU03A==",
+  "dgSpecHash": "qXSZ5APK4ANcEf61/hNDDTgWr52k4FhLV77OrJVVyG3kwdLyyZyJKZnHAIOjbR1lt5+adXVYCCJ8wIDXww/NRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arsns\\Desktop\\Work\\Project\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\arsns\\OneDrive\\Desktop\\Work\\Inventory-Management-System\\Project\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arsns\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\arsns\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

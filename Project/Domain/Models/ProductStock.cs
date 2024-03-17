@@ -8,7 +8,7 @@ public partial class ProductStock
         Warranty = new HashSet<Warranty>();
     }
 
-    public int ProductStockId { get; set; }
+    public int Id { get; set; }
     public string ProductCode { get; set; }
     public int ProductId { get; set; }
     public int? SellingListId { get; set; }

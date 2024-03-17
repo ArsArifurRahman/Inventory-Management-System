@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public class ProductDamaged
 {
-    public int ProductDamagedId { get; set; }
+    public int Id { get; set; }
     public int ProductStockId { get; set; }
     public ProductStock ProductStock { get; set; }
     public string Note { get; set; }

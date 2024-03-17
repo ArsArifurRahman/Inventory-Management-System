@@ -8,7 +8,7 @@ public partial class ExpenseCategory
         Expense = new HashSet<Expense>();
     }
 
-    public int ExpenseCategoryId { get; set; }
+    public int Id { get; set; }
 
     [Required(ErrorMessage = "Input Category Name!")]
     public string CategoryName { get; set; }

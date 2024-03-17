@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public class AccountWithdraw
 {
-    public int AccountWithdrawId { get; set; }
+    public int Id { get; set; }
     public int AccountId { get; set; }
     public Account Account { get; set; }
     public decimal WithdrawAmount { get; set; }

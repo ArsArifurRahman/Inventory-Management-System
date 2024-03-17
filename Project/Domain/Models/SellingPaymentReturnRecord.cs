@@ -1,7 +1,7 @@
 ﻿namespace Domain.Models;
 public class SellingPaymentReturnRecord
 {
-    public int SellingPaymentReturnRecordId { get; set; }
+    public int Id { get; set; }
     public decimal PrevReturnAmount { get; set; }
     public decimal CurrentReturnAmount { get; set; }
     public decimal NetReturnAmount { get; set; }
